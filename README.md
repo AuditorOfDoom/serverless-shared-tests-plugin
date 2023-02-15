@@ -1,0 +1,1 @@
+# serverless-shared-tests-plugin
